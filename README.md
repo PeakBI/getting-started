@@ -1,4 +1,4 @@
-# Peak Getting Started
+# Peak's Getting Started
 
 This repository contains code that allows the user to follow Peak's Getting Started Guide which is available here https://platformsupport.peak.ai/support/solutions/articles/80001038072
 
