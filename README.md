@@ -4,7 +4,7 @@ This repository contains code that allows the user to follow Peak's Getting Star
 
 
 ## Contributing
-We really appreciate any contributions that you can make to the guide. <P>To get started, please read our [contributing guide](./CONTRIBUTING.md) to familiarize yourself with our development process.
+We really appreciate any contributions that you can make to the guide. To get started, please read our [contributing guide](./CONTRIBUTING.md) to familiarize yourself with our development process.
 
 ## License
 [GNU GPL](https://opensource.org/licenses/GPL-3.0)
